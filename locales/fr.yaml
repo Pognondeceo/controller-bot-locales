@@ -508,8 +508,8 @@ btn:
     more: ⇣ Montrer options
 
     delete: Supprimer le message
-    silent_enable: 'Notifier: ON'
-    silent_disable: 'Notifier: OFF'
+    silent_enable: 'Notifier: Activer'
+    silent_disable: 'Notifier: Désactiver'
     preview_enable: 'Aperçu du lien: Activer'
     preview_disable: 'Aperçu du lien: Désactiver'
 
